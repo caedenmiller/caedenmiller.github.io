@@ -7,14 +7,28 @@ body {
     display:flex;
     padding:10px;
     margin:10px;
-    background: lightgray
+    background: rgb(119, 219, 194);
+    border-radius:5px;
 }
 .assignment img {
     width:200px;
-    padding:10px;
+    margin:10px;
+    border:2px solid rgba(255, 255, 255, 0.466)
 
 }
+.assignment img:hover{
+    border:2px solid #F25C69
+}
 h1 {
-    color: Darkorchid;
+    color: rgb(216, 206, 219);
     text-align:center
+}
+
+a {
+    text-decoration: none;
+    color:rgb(233, 221, 221); 
+}
+a:hover {
+    color: #F25C69;
+
 }
