@@ -20,13 +20,13 @@ body {
     border:2px solid #F25C69
 }
 h1 {
-    color: rgb(216, 206, 219);
+    color: rgb(0, 0, 0);
     text-align:center
 }
 
 a {
     text-decoration: none;
-    color:rgb(233, 221, 221); 
+    color:rgb(0, 0, 0); 
 }
 a:hover {
     color: #F25C69;
